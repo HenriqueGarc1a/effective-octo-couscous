@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     /*
-    private class Led{
+    private static class Led{
 
     int[] leds = {6,2,5,5,4,5,6,3,7,6};
 
